@@ -36,53 +36,6 @@
       "title": "Proportion of the population living below the international poverty line by sex, age, employment status and geographic location (urban/rural)"
     },
     {
-      "path": "1-1-1 - Hoja 1/data.csv",
-      "name": "1-1-1 - Hoja 1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Dato",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "5",
-                "6",
-                "7",
-                "8",
-                "9",
-                "10",
-                "11",
-                "12",
-                "13",
-                "14",
-                "15",
-                "16",
-                "17",
-                "18",
-                "19",
-                "20",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "1-1-1 - Hoja 1"
-    },
-    {
       "path": "3-3-2/data.csv",
       "name": "3-3-2",
       "profile": "tabular-data-resource",
