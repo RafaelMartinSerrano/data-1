@@ -1,2 +1,2 @@
 indicator_code,indicator_name,indicator_description,method_of_computation,source_url,source_organization
-1.1.2,Tasa de pobreza extrema,La tasa de pobreza extrema es la proporción de la población que vive en pobreza extrema,La tasa se calcula dividiendo el número de personas en pobreza extrema por el número total de personas en la población.,https://datosgob.com/pobreza,Organización de Datos del Gobierno
+1.1.2,Tasa de pobreza extrema,La tasa de pobreza extrema es la proporción de la población que vive en pobreza extrema,La tasa se calcula dividiendo el número de personas en pobreza extrema por el número total de personas en la población.,"https://datosgob.com/pobreza",Organización de Datos del Gobierno
