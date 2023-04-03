@@ -1,2 +1,2 @@
-indicator_code,indicator_name,indicator_description,method_of_computation,source_url,source_organization
-1.1.2,Tasa de pobreza extrema,La tasa de pobreza extrema es la proporción de la población que vive en pobreza extrema,La tasa se calcula dividiendo el número de personas en pobreza extrema por el número total de personas en la población.,"https://datosgob.com/pobreza",Organización de Datos del Gobierno
+indicator_name,indicator_number,computation_units,source_active_1,source_organisation_1,source_url_1,reporting_status
+Proportion of wetland that is degraded over total wetland area,1-1-2,Percentage,true,Wetland Statistics Agency,"""https://wetlandstaticsagency.org""",complete
