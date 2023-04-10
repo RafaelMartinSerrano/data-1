@@ -15,12 +15,12 @@
             "type": "integer"
           },
           {
-            "name": "Sexo",
+            "name": "Urbanisation",
             "type": "string",
             "constraints": {
               "enum": [
-                "f",
-                "m",
+                "Urban",
+                "Rural",
                 ""
               ]
             }
@@ -35,5 +35,5 @@
   ],
   "profile": "data-package",
   "name": "1-1-2",
-  "title": "1-1-2"
+  "title": "Proportion of wetland that is degraded over total wetland area"
 }
