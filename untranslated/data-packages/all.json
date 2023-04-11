@@ -36,6 +36,39 @@
       "title": "Proportion of wetland that is degraded over total wetland area"
     },
     {
+      "path": "1-4-1/data.csv",
+      "name": "1-4-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Urbanisation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "Proportion of population living in households with access to basic services"
+    },
+    {
       "path": "1-1-1/data.csv",
       "name": "1-1-1",
       "profile": "tabular-data-resource",
@@ -1609,28 +1642,6 @@
       "title": "Proportion of population with access to electricity"
     },
     {
-      "path": "1-4-1/data.csv",
-      "name": "1-4-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Proportion of population living in households with access to basic services"
-    },
-    {
       "path": "11-6-2/data.csv",
       "name": "11-6-2",
       "profile": "tabular-data-resource",
@@ -2244,7 +2255,7 @@
           }
         ]
       },
-      "title": "Number of countries with migration policies that facilitate orderly, safe, regular and responsible migration and mobility of people"
+      "title": "Proportion of countries with migration policies that facilitate orderly, safe, regular and responsible migration and mobility of people"
     },
     {
       "path": "16-7-1/data.csv",
@@ -4290,7 +4301,7 @@
           }
         ]
       },
-      "title": "Degree of sustainable public procurement policies and action plan implementation"
+      "title": "Number of countries implementing sustainable public procurement policies and action plans"
     },
     {
       "path": "5-5-2/data.csv",
@@ -4422,7 +4433,7 @@
           }
         ]
       },
-      "title": "Mountain Green Cover Index"
+      "title": "(a) Mountain Green Cover Index and (b) proportion of degraded mountain land"
     },
     {
       "path": "13-3-1/data.csv",
@@ -4796,7 +4807,7 @@
           }
         ]
       },
-      "title": "Proportion of girls and women aged 15–49 years who have undergone female genital mutilation/cutting, by age"
+      "title": "Proportion of girls and women aged 15–49 years who have undergone female genital mutilation, by age"
     },
     {
       "path": "15-5-1/data.csv",
