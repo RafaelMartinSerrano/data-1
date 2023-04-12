@@ -5,9 +5,11 @@ indicator_number: 1.4.1
 
 source_active_1: true
 
+source_organisation_1: UPO
+
 computation_units: Percentage
 
-reporting_status: notapplicable
+reporting_status: complete
 
 indicator_available: Percentage (%) of students who receive scholarships or aid for low-income students with respect to the total number of students enrolled UPO
 
@@ -24,6 +26,7 @@ SDG_INDICATOR: >-
   1.4.1	Percentage (%) of students who receive scholarships or aid for low-income students with respect to the total number of students enrolled UPO
 ORGANISATION_UNIT: >-
   UPO
+
 STAT_CONC_DEF: |
   ** Indicator type:
 
