@@ -30,13 +30,13 @@ SDG_INDICATOR: >-
   1.4.1	Percentage (%) of students who receive scholarships or aid for low-income students with respect to the total number of students enrolled UPO
 ORGANISATION_UNIT: >-
   UPO
-STAT_CONC_DEF: >-
-  ##Indicator type:
+STAT_CONC_DEF: |
+  ## Indicator type:
 
   Interest groups
 
-  ##Linked Area of Action:
+  ## Linked Area of Action:
   
   Scholarships and grants
 
-  ##Risk Measurement:
+  ## Risk Measurement:
