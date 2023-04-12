@@ -11,14 +11,6 @@ reporting_status: notapplicable
 
 graph_title: Guarantee that vulnerable people have access to basic services
 
-graph_titles:
-          - unit: Percent
-            title: My title for percentages
-          - unit: Percent
-            title: My alternate title for totals
-          - unit: Total
-            title: My alternate title for totals
-
 graph_type: line
 
 indicator_available: A more suitable name for the data that is provided
