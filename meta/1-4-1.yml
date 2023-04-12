@@ -16,14 +16,6 @@ computation_units: Percentage
 #required 
 graph_title: Guarantee that vulnerable people have access to basic services
 
-#required 
-graph_titles:
-          - unit: Percent
-            title: My title for percentages
-          - unit: Percent
-            title: My alternate title for totals
-          - unit: Total
-            title: My alternate title for totals
 
 graph_type: line
 
@@ -47,14 +39,14 @@ ORGANISATION_UNIT: >-
   UPO
 
 STAT_CONC_DEF: |
-  Indicator type:
+ > Indicator type:
 
   Interest groups
 
-  Linked Area of Action:
+ > Linked Area of Action:
   
   Scholarships and grants
 
-  Risk Measurement:
+ > Risk Measurement:
 
   --
