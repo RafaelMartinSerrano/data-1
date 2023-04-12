@@ -1,14 +1,33 @@
 
+#required 
 indicator_name: Percentage (%) of students who receive scholarships or aid for low-income students with respect to the total number of students enrolled UPO
 
+#required 
 indicator_number: 1.4.1
+
 
 source_active_1: true
 
 source_organisation_1: UPO
 
+#required 
 computation_units: Percentage
 
+#required 
+graph_title: Guarantee that vulnerable people have access to basic services
+
+#required 
+graph_titles:
+          - unit: Percent
+            title: My title for percentages
+          - unit: Percent
+            title: My alternate title for totals
+          - unit: Total
+            title: My alternate title for totals
+
+graph_type: line
+
+#required to show graph
 reporting_status: complete
 
 indicator_available: Percentage (%) of students who receive scholarships or aid for low-income students with respect to the total number of students enrolled UPO
@@ -28,14 +47,14 @@ ORGANISATION_UNIT: >-
   UPO
 
 STAT_CONC_DEF: |
-  ** Indicator type:
+  Indicator type:
 
   Interest groups
 
-  ** Linked Area of Action:
+  Linked Area of Action:
   
   Scholarships and grants
 
-  ** Risk Measurement:
+  Risk Measurement:
 
   --
