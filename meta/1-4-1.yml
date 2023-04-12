@@ -7,10 +7,9 @@ source_active_1: true
 
 computation_units: Percentage
 
-reporting_status: inprogress
+reporting_status: notapplicable
 
 graph_title: Guarantee that vulnerable people have access to basic services
-
 
 graph_titles:
           - unit: Percent
