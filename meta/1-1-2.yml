@@ -5,9 +5,3 @@ source_active_1: true
 source_organisation_1: Wetland Statistics Agency
 source_url_1: "https://wetlandstaticsagency.org"
 reporting_status: complete
-
-#required 
-#computation_units: Percentage
-
-#required 
-graph_title: Guarantee that vulnerable people have access to basic services
