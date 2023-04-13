@@ -16,7 +16,14 @@ computation_units: Percentage
 #required 
 graph_title: Guarantee that vulnerable people have access to basic services
 
+graph_titles:
+          - unit: Percent
+            title: Guarantee that vulnerable people have access to basic services
+          - unit: Total
+            title: My alternate title for totals
+  
 
+#required
 graph_type: line
 
 #required to show graph
@@ -24,13 +31,13 @@ reporting_status: complete
 
 indicator_available: Percentage (%) of students who receive scholarships or aid for low-income students with respect to the total number of students enrolled UPO
 
+#required. Options: not_available, challenges_remain, aproaching_target, target_achieved
 progress_status: not_available
 
 DG_INDICATOR_INFO: >-
  Goal 1.4	Guarantee that vulnerable people have access to basic services
 
-SDG_TARGET__GLOBAL: >-
-  Goal 1.4	Guarantee that vulnerable people have access to basic services
+
 SDG_TARGET: >-
   Goal 1.4	Guarantee that vulnerable people have access to basic services
 SDG_INDICATOR: >-
@@ -39,14 +46,14 @@ ORGANISATION_UNIT: >-
   UPO
 
 STAT_CONC_DEF: |
- > Indicator type:
+  ## Indicator type:
 
   Interest groups
 
- > Linked Area of Action:
+  ## Linked Area of Action:
   
   Scholarships and grants
 
- > Risk Measurement:
+  ## Risk Measurement:
 
   --
