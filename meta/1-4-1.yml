@@ -44,26 +44,26 @@ ORGANISATION_UNIT: >-
 
 #optional
 STAT_CONC_DEF: |
-  ## Indicator type:
+  #### Indicator type:
 
   Interest groups
 
-  ## Linked Area of Action:
+  #### Linked Area of Action:
   
   Scholarships and grants
 
-  ## Risk Measurement:
+  #### Risk Measurement:
 
   --
 
 
-##GRAPH OPTIONS -------------------------------------------------
+##GRAPH AND TABLE DATA OPTIONS -------------------------------------------------
 
-#required to show graph
+#required to show 
 graph_title: Percentage (%) of students who receive scholarships or aid for low-income students with respect to the total number of students enrolled UPO
 
 #required to show graph
 graph_type: line
 
-#required to show graph. Options: complete, notstarted, notapplicable
+#required to show. Options: complete, notstarted, notapplicable
 reporting_status: notstarted
