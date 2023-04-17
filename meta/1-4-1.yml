@@ -7,7 +7,7 @@ indicator_name: Percentage (%) of students who receive scholarships or aid for l
 #required 
 indicator_number: 1.4.1
 
-#required 
+#required. Options: true, false
 source_active_1: true
 
 #Optional
@@ -62,7 +62,7 @@ STAT_CONC_DEF: |
 #required to show 
 graph_title: Percentage (%) of students who receive scholarships or aid for low-income students with respect to the total number of students enrolled UPO
 
-#required to show graph
+#required to show graph. Options: line, bar, binary (yes/No graph)
 graph_type: line
 
 #required to show. Options: complete, notstarted, notapplicable
