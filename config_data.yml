@@ -73,7 +73,7 @@ inputs:
 translations:
   # This pulls in translations from a Git repository.
   - class: TranslationInputSdgTranslations
-    source: https://github.com/LuciaEnreda/translations
+    source: https://github.com/LuciaEnreda/translations.git
     tag: 2.3.0
   # This pulls in translations from a local 'translations' folder.
   - class: TranslationInputYaml
