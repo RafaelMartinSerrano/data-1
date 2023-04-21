@@ -12,12 +12,25 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
           },
           {
+            "name": "Urbanisation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Urban",
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Urbanisation"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
