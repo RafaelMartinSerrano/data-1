@@ -1,32 +1,69 @@
-﻿composite_breakdown_label: ''
-computation_units: ''
-copyright: ''
-data_footnote: ''
-data_non_statistical: false
-data_notice_class: ''
-data_notice_heading: ''
-data_notice_text: ''
-data_show_map: false
-data_start_values: []
-embedded_feature_footer: ''
-embedded_feature_html: ''
-embedded_feature_tab_title: ''
-embedded_feature_title: ''
-embedded_feature_url: ''
-expected_disaggregations: []
-graph_annotations: []
-graph_limits: []
-graph_stacked_disaggregation: ''
-graph_title: global_indicators.13-3-1-title
-graph_titles: []
+
+##GENERAL -------------------------------------------------
+
+#required 
+indicator_name: Number of investigations on climate change.
+
+
+#required 
+indicator_number: 13.3.2
+
+#required 
+source_active_1: true
+
+#Optional
+source_organisation_1: Periphery
+
+#required 
+computation_units: Percentage
+
+#required 
+indicator_available: Percentage (%) of students who receive scholarships or aid for low-income students with respect to the total number of students enrolled UPO
+
+
+#required. Options: not_available, challenges_remain, aproaching_target, target_achieved
+progress_status: not_available
+
+
+#METADATA -------------------------------------------------
+
+#required
+DG_INDICATOR_INFO: >-
+ Target 13.3	Climate change awareness
+
+#required
+SDG_TARGET: >-
+  Target 13.3	Climate change awareness
+#required
+SDG_INDICATOR: >-
+  13.3.2	Number of investigations on climate change.
+
+#optional
+ORGANISATION_UNIT: >-
+  Periphery
+
+#optional
+STAT_CONC_DEF: |
+  #### Indicator type:
+
+  Teaching / Research
+
+  #### Linked Area of Action:
+  
+  Climate Change Mitigation
+
+  #### Risk Measurement:
+
+  --
+
+
+##GRAPH AND TABLE DATA OPTIONS -------------------------------------------------
+
+#required to show 
+graph_title: Number of investigations on climate change.
+
+#required to show graph
 graph_type: line
-indicator_name: global_indicators.13-3-1-title
-indicator_number: '13.3.1'
-national_geographical_coverage: ''
-page_content: ''
-permalink: ''
-precision: []
+
+#required to show. Options: complete, notstarted, notapplicable
 reporting_status: notstarted
-sort: ''
-standalone: false
-tags: []
