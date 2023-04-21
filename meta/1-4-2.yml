@@ -2,10 +2,9 @@
 ##GENERAL -------------------------------------------------
 
 #required 
-indicator_name: Percentage (%) of students who receive scholarships or aid for low-income students with respect to the total number of students enrolled UPO
-
+indicator_name:  Percentage (%) UPO annual budget dedicated to scholarships and social assistance for low-income students with respect to the total annual UPO budget
 #required 
-indicator_number: 1.4.1
+indicator_number: 1.4.2
 
 #required 
 source_active_1: true
@@ -29,14 +28,12 @@ progress_status: not_available
 #required
 DG_INDICATOR_INFO: >-
  Goal 1.4	Guarantee that vulnerable people have access to basic services
-
 #required
 SDG_TARGET: >-
-  Goal 1.4	Guarantee that vulnerable people have access to basic services
-
+ Goal 1.4	Guarantee that vulnerable people have access to basic services
 #required
 SDG_INDICATOR: >-
-  1.4.1	Percentage (%) of students who receive scholarships or aid for low-income students with respect to the total number of students enrolled UPO
+ 1.4.2	% UPO annual budget dedicated to scholarships and social assistance for low-income students with respect to the total annual UPO budget
 
 #optional
 ORGANISATION_UNIT: >-
@@ -60,7 +57,7 @@ STAT_CONC_DEF: |
 ##GRAPH AND TABLE DATA OPTIONS -------------------------------------------------
 
 #required to show 
-graph_title: Percentage (%) of students who receive scholarships or aid for low-income students with respect to the total number of students enrolled UPO
+graph_title:  UPO annual budget dedicated to scholarships and social assistance for low-income students with respect to the total annual UPO budget
 
 #required to show graph
 graph_type: line
