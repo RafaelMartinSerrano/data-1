@@ -63,4 +63,4 @@ graph_title:  UPO annual budget dedicated to scholarships and social assistance 
 graph_type: line
 
 #required to show. Options: complete, notstarted, notapplicable
-reporting_status: notstarted
+reporting_status: notapplicable
